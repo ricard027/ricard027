@@ -1,7 +1,10 @@
 #Ola, eu sou ricardo027!😀
 
+
 -👨‍🎓 Atualmente estou cursando Sistemas de informação.
 -🌱 Estudando reactjs e typescript por fora focando no frontEnd.
+
+
 
 <div align="center">
   <a href="https://github.com/ricard027">
