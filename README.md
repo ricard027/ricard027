@@ -2,6 +2,7 @@
 
 
 -👨‍🎓 Atualmente estou cursando Sistemas de informação.
+<br/>
 -🌱 Faço cursos por fora focando no front end.
 
 
