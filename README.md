@@ -2,7 +2,7 @@
 
 
 -👨‍🎓 Atualmente estou cursando Sistemas de informação.
--🌱 Estudando reactjs e typescript por fora focando no frontEnd.
+-🌱 Faço cursos por fora focando no front end.
 
 
 
