@@ -28,7 +28,7 @@
 
 
 
-<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
+<h3>⚙️ &nbsp;Back-end:</h3>
 
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   
