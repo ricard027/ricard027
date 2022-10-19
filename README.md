@@ -32,7 +32,7 @@
 <h3>⚙️ &nbsp;Back-end:</h3>
 
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
+
   
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
