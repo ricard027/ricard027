@@ -2,7 +2,7 @@
 <h1>👋 &nbsp;Olá, eu sou o Ricardo, um dev que ama oque faz!</h1>
 <p align="center">
 
-<a href="https://instagram.com/ricardo_machadot"><img src="https://img.shields.io/badge/-@ricardo_machadot_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
 
 <a href="https://www.linkedin.com/in/ricardo-machado-b9893a209/"><img src="https://img.shields.io/badge/-Ricardo%20Machado%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ricardo_cabista@hotmail.com"><img src="https://img.shields.io/badge/-ricardocabista@hotmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
