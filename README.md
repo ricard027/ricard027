@@ -1,5 +1,5 @@
 
-<h1>👋 &nbsp;Olá, eu sou o Ricardo, um dev que ama oque faz!</h1>
+<h1>👋 &nbsp;Olá, eu sou Ricardo, um dev que ama o que faz!</h1>
 <p align="center">
 
 
