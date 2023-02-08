@@ -10,7 +10,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Eu sempre fui fissurado por tecnologia, desde pequeno, minha paixão aumentou ainda mais quando tive meu 1° contato com javascript.
+- 👨🏻‍💻 &nbsp; Eu sempre fui fissurado por tecnologia, desde pequeno, minha paixão aumentou ainda mais quando tive meu 1° contato com programação.
   
 - 🚀 &nbsp; Atualmente, eu estou cursando Sistemas de informação e focado em desevolvimento web front end, mas o meu objetivo é full stack.
   
