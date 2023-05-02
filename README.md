@@ -14,7 +14,6 @@
   
 - 🚀 &nbsp; Atualmente, eu estou cursando Sistemas de informação e focado em desevolvimento web front end, mas o meu objetivo é full stack.
   
-- 🦾 &nbsp; Gosto de praticar atividades físicas, praticante de calistenia.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
