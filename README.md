@@ -25,6 +25,8 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+![Tailwind](https://img.shields.io/badge/-Tailwndcss-333333?style=flat&logo=tailwindcss)
+![Jest](https://img.shields.io/badge/Jest-333333?style=flat&logo=jest)
 
 
 
