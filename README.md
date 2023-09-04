@@ -1,8 +1,5 @@
-
-<h1>👋 &nbsp;Olá, eu sou Ricardo, um dev que ama o que faz!</h1>
+<h1>👋 &nbsp;Hello, I'm Ricardo</h1>
 <p align="center">
-
-
 
 <a href="https://www.linkedin.com/in/ricardo-machado-b9893a209/"><img src="https://img.shields.io/badge/-Ricardo%20Machado%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
@@ -10,10 +7,9 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Eu sempre fui fissurado por tecnologia, desde pequeno, minha paixão aumentou ainda mais quando tive meu 1° contato com programação.
+- 👨🏻‍💻 &nbsp;I've always been passionate about technology, and my passion grew even stronger when I had my first encounter with programming.
   
-- 🚀 &nbsp; Atualmente, eu estou cursando Sistemas de informação e focado em desevolvimento web front end, mas o meu objetivo é full stack.
-  
+- 🚀 &nbsp;Currently, I'm pursuing a degree in Information Systems and focused on full-stack web development.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
@@ -25,17 +21,13 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
-![Tailwind](https://img.shields.io/badge/-Tailwndcss-333333?style=flat&logo=tailwindcss)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss)
 ![Jest](https://img.shields.io/badge/Jest-333333?style=flat&logo=jest)
-
-
 
 <h3>⚙️ &nbsp;Back-end:</h3>
 
-  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 
-  
+<h2>🚀 &nbsp;A little more about my profile</h2>
 
-<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
-
-![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricard027&show_icons=true&theme=dracula)
+![Ricardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricard027&show_icons=true&theme=dracula)
